@@ -4,6 +4,7 @@ import Card from '../components/Card';
 
 import linkedin from '../assets/images/linkedin.png';
 import github from '../assets/images/github.png';
+import soundcloud from '../assets/images/soundcloud.png';
 import accenture from '../assets/images/accenture_logo.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -36,6 +37,14 @@ class Carousel extends React.Component {
                     subTitle: 'Projects',
                     imgSrc: github,
                     link: 'https://github.com/rsickles',
+                    selected: false
+                },
+                {
+                    id: 3,
+                    title: '',
+                    subTitle: 'Music',
+                    imgSrc: soundcloud,
+                    link: 'https://soundcloud.com/atashbeatz/tracks',
                     selected: false
                 }
 
