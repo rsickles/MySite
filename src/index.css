@@ -21,7 +21,7 @@ code {
 
 .g-card-image {
   border-radius: 5px;
-
+  cursor: pointer;
 }
 
 
