@@ -38,14 +38,6 @@ class Carousel extends React.Component {
                     imgSrc: github,
                     link: 'https://github.com/rsickles',
                     selected: false
-                },
-                {
-                    id: 3,
-                    title: '',
-                    subTitle: 'Music',
-                    imgSrc: soundcloud,
-                    link: 'https://soundcloud.com/atashbeatz/tracks',
-                    selected: false
                 }
 
             ]
