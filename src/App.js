@@ -27,9 +27,9 @@ class App extends React.Component{
 			],
 			home : {
 				title: "Ryan Sickles",
-				subTitle: "AI & Data Consultant @ Accenture",
+				subTitle: "Associate Product Manager @ Vertica",
 				text: "Boston, MA",
-        quote: "I help companies design, build, and launch innovative products"
+        quote: "Helping to launch product offerings with the Vertica Analytic Database"
 			}
 		}
 	}

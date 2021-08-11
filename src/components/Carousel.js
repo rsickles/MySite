@@ -5,7 +5,7 @@ import Card from '../components/Card';
 import linkedin from '../assets/images/linkedin.png';
 import github from '../assets/images/github.png';
 import soundcloud from '../assets/images/soundcloud.png';
-import accenture from '../assets/images/accenture_logo.png';
+import vertica from '../assets/images/vertica_logo.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -27,8 +27,8 @@ class Carousel extends React.Component {
                     id: 1,
                     title: '',
                     subTitle: 'Employer',
-                    imgSrc: accenture,
-                    link: 'https://accenture.com',
+                    imgSrc: vertica,
+                    link: 'https://www.vertica.com/',
                     selected: false
                 },
                 {
